@@ -2,7 +2,7 @@
   "name": "vue-cli",
   "description": "A vue.js project",
   "version": "1.0.0",
-  "author": "bomeekim",
+  "author": "bomeekim <thespringg@naver.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
